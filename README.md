@@ -1,5 +1,4 @@
 # How-to-Choose-the-Perfect-Beer
-
 Data Science Hackathon | Machine Hack
 
 INSTRUCTIONS TO RUN CODE FILE:
