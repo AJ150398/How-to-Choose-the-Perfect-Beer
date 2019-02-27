@@ -1,11 +1,11 @@
 # How-to-Choose-the-Perfect-Beer
 Data Science Hackathon | Machine Hack
 
-INSTRUCTIONS TO RUN CODE FILE:
+#INSTRUCTIONS TO RUN CODE FILE:
 
   The code file is a script written in Python (.py file). It requires a Python interpreter to run.
 
-  PACKAGES USED:
+  #PACKAGES USED:
 
     numpy 1.13.3
 
